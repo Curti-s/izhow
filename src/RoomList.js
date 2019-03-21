@@ -12,7 +12,11 @@ class RoomList extends Component {
                             <li 
                                 key={room.id}
                                 className="room" >
-                                <a href="/">{room.name}</a>
+                                <button 
+                                    className="btn btn-room"
+                                    onClick={() => this.props.subscribeToRoom(room.id)}>
+                                    #{room.name}
+                                </button>
                             </li>
                         )
                     })}
