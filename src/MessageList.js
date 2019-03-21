@@ -17,10 +17,14 @@ const DUMMY_DATA =  [
     }
 ]
 class MessageList extends Component {
+    constructor(props) {
+        super(props);
+
+    }
     render() {
         return (
             <div className="message-list">
-                {DUMMY_DATA.map((message, index) => {
+                {this.props.messages.map((message, index) => {
                     return (
                         <div 
                             key={index} 
