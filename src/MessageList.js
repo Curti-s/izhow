@@ -23,7 +23,7 @@ class MessageList extends Component {
                 {DUMMY_DATA.map((message, index) => {
                     return (
                         <div 
-                            key={message.index} 
+                            key={index} 
                             className="message">
                             <div className="message-username">
                               {message.senderId}
