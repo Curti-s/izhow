@@ -172,7 +172,9 @@ html, body {
   margin: 0;
   border-style: none;
   background: var(--send-message-form);
-  font-weight: 200;
+  font-weight: 300;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: .95em;
 
 }
 

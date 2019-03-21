@@ -32,7 +32,8 @@ class SendMessageForm extends Component {
                     type="text"
                     placeholder="Type your message and hit ENTER"
                     value={this.state.message}
-                    onChange={this.handleChange} />
+                    onChange={this.handleChange} 
+                    disabled={this.props.disabled} />
             </form>
         )
     }
