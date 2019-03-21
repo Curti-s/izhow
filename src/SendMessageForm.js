@@ -20,7 +20,7 @@ class SendMessageForm extends Component {
         e.preventDefault();
         /* send message */
         this.props.sendMessage(this.state.message)
-        this.state.message = ''
+        this.setState({message: ''})
     }
 
     render() {
