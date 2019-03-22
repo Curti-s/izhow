@@ -1,13 +1,13 @@
 {
-  "main.css": "/github.io/izhow/static/css/main.78ca6cc5.chunk.css",
-  "main.js": "/github.io/izhow/static/js/main.ccfc490b.chunk.js",
-  "main.js.map": "/github.io/izhow/static/js/main.ccfc490b.chunk.js.map",
-  "runtime~main.js": "/github.io/izhow/static/js/runtime~main.99a278f9.js",
-  "runtime~main.js.map": "/github.io/izhow/static/js/runtime~main.99a278f9.js.map",
-  "static/js/2.bc7ba0b1.chunk.js": "/github.io/izhow/static/js/2.bc7ba0b1.chunk.js",
-  "static/js/2.bc7ba0b1.chunk.js.map": "/github.io/izhow/static/js/2.bc7ba0b1.chunk.js.map",
-  "index.html": "/github.io/izhow/index.html",
-  "precache-manifest.a112476d60cc1c2e7ba4fce71f9c35b9.js": "/github.io/izhow/precache-manifest.a112476d60cc1c2e7ba4fce71f9c35b9.js",
-  "service-worker.js": "/github.io/izhow/service-worker.js",
-  "static/css/main.78ca6cc5.chunk.css.map": "/github.io/izhow/static/css/main.78ca6cc5.chunk.css.map"
+  "main.css": "/izhow/static/css/main.78ca6cc5.chunk.css",
+  "main.js": "/izhow/static/js/main.c67766f8.chunk.js",
+  "main.js.map": "/izhow/static/js/main.c67766f8.chunk.js.map",
+  "runtime~main.js": "/izhow/static/js/runtime~main.6a185772.js",
+  "runtime~main.js.map": "/izhow/static/js/runtime~main.6a185772.js.map",
+  "static/js/2.bc7ba0b1.chunk.js": "/izhow/static/js/2.bc7ba0b1.chunk.js",
+  "static/js/2.bc7ba0b1.chunk.js.map": "/izhow/static/js/2.bc7ba0b1.chunk.js.map",
+  "index.html": "/izhow/index.html",
+  "precache-manifest.ae8b08458534192e950d26d4fcf19d01.js": "/izhow/precache-manifest.ae8b08458534192e950d26d4fcf19d01.js",
+  "service-worker.js": "/izhow/service-worker.js",
+  "static/css/main.78ca6cc5.chunk.css.map": "/izhow/static/css/main.78ca6cc5.chunk.css.map"
 }
